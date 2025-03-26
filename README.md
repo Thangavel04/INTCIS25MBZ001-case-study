@@ -1,1 +1,1 @@
-# Thangavel04-INTCIS25MBZ001_case-study
+# TruYum Case Study(HTML, CSS, JAVASCRIPT) - Thangavel A(2397984)
